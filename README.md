@@ -31,7 +31,7 @@ Enjoy **general live TV**, occasional **live sports**, and an enormous library o
 > 💬 Need help setting it up? DM me and I got you.
 
 **Xtream Playlist Link:**  
-* [DrewLive Xtream Playlist](https://drewlive-24.andrewrocha06.workers.dev/)
+* [DrewLive Xtream Playlist](https://http://drewlive24.duckdns.org:4000/)
 
 ━━━━━━━━━━━━━━━━━━━━
 
