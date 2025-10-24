@@ -13,9 +13,9 @@ FALLBACK_LOGOS = {
 }
 
 CUSTOM_HEADERS = {
-    "Origin": "https://embedsports.top",
-    "Referer": "https://embedsports.top/",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0"
+    "Origin": "https://ppv.to",
+    "Referer": "https://ppv.to/",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0"
 }
 
 TV_IDS = {
