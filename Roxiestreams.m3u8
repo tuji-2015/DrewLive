@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",Roxiestreams - EVLS Prague Pro
 https://solo.blitzen.store/ppv.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" tvg-id="UFC.247.Dummy.us" group-title="Roxiestreams",Roxiestreams - UFC 321: Tom Aspinall vs Ciryl Gane
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Roxiestreams",Roxiestreams - UFC 321: Tom Aspinall vs Ciryl Gane
 https://saz.blitzen.store/ufc.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" tvg-id="UFC.247.Dummy.us" group-title="Roxiestreams",Roxiestreams - UFC 321: Tom Aspinall vs Ciryl Gane
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Roxiestreams",Roxiestreams - UFC 321: Tom Aspinall vs Ciryl Gane
 https://star.blitzen.store/ufc.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" tvg-id="UFC.247.Dummy.us" group-title="Roxiestreams",Roxiestreams - UFC 321: Tom Aspinall vs Ciryl Gane
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Roxiestreams",Roxiestreams - UFC 321: Tom Aspinall vs Ciryl Gane
 https://saz.blitzen.store/box.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Ligue 1
 https://slux.zaynic.my.id/psg.m3u8
@@ -13,9 +13,9 @@ https://slux.zaynic.my.id/psg.m3u8
 https://sluc.009292.xyz/f1.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams",Roxiestreams - Formula 1
 https://sluc.009292.xyz/f1alt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="WWE.Dummy.us" group-title="Roxiestreams",Roxiestreams - WWE NXT: Halloween Havoc
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",Roxiestreams - WWE NXT: Halloween Havoc
 https://slux.zaynic.my.id/wwe.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="WWE.Dummy.us" group-title="Roxiestreams",Roxiestreams - WWE NXT: Halloween Havoc
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WWE2.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",Roxiestreams - WWE NXT: Halloween Havoc
 https://slux.zaynic.my.id/usa.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams",Roxiestreams - MLB World Series
 https://slux.009292.xyz/mlb.m3u8
