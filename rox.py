@@ -194,7 +194,7 @@ def main():
         
         logging.info(f"  Added {valid_count_for_section} valid streams for {section_title} section.")
 
-    output_filename = "Roxiestreams_robust.m3u8"
+    output_filename = "Roxiestreams.m3u8"
     try:
         with open(output_filename, "w", encoding="utf-8") as f:
             f.write("\n".join(playlist_lines))
