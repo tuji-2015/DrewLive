@@ -1,4 +1,3 @@
-
 import re
 import requests
 import time
@@ -28,7 +27,7 @@ epg_sources = [
     "https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz",
+    "httpshttps://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz",
@@ -80,18 +79,16 @@ def stream_parse_epg(file_obj, valid_tvg_ids, root):
     try:
         for event, elem in ET.iterparse(file_obj, events=('end',)):
             tag = strip_namespace(elem.tag)
-            if tag not in ('channel', 'programme'):
-                elem.clear()
-                continue
-                
-            total_items += 1
-            tvg_id = elem.get('id') if tag == 'channel' else elem.get('channel')
             
-            if not valid_tvg_ids or (tvg_id and tvg_id in valid_tvg_ids):
-                root.append(elem)
-                kept_items += 1
-            else:
-                elem.clear() 
+            if tag in ('channel', 'programme'):
+                total_items += 1
+                tvg_id = elem.get('id') if tag == 'channel' else elem.get('channel')
+                
+                if tvg_id and tvg_id in valid_tvg_ids:
+                    root.append(elem)
+                    kept_items += 1
+                else:
+                    elem.clear() 
 
     except ET.ParseError as e:
         print(f"❌ XML Parse Error: {e}")
@@ -99,6 +96,11 @@ def stream_parse_epg(file_obj, valid_tvg_ids, root):
 
 def merge_and_filter_epg(epg_sources, playlist_url, output_file):
     valid_tvg_ids = fetch_tvg_ids_from_playlist(playlist_url)
+    
+    if not valid_tvg_ids:
+        print("❌ No valid tvg-ids loaded. Halting script to prevent empty/full merge.")
+        return
+
     root = ET.Element("tv")
     cumulative_total = 0
     cumulative_kept = 0
@@ -127,7 +129,9 @@ def merge_and_filter_epg(epg_sources, playlist_url, output_file):
 
     try:
         tree = ET.ElementTree(root)
-        tree.write(output_file, encoding="utf-8", xml_declaration=True)
+        with gzip.open(output_file, "wb") as f:
+            tree.write(f, encoding="utf-8", xml_declaration=True)
+            
     except Exception as e:
         print(f"❌ Failed to write output file: {e}")
         return
