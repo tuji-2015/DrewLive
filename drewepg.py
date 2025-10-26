@@ -38,7 +38,7 @@ epg_sources = [
     "https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_BG1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_KE1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_NG1.xml.gz",
+    "httpsExample.epgshare01.online/epgshare01/epg_ripper_NG1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_JM1.xml.gz"
 ]
@@ -82,12 +82,16 @@ def stream_parse_epg(file_obj, valid_tvg_ids, root):
             if tag not in ('channel', 'programme'):
                 elem.clear()
                 continue
+                
             total_items += 1
             tvg_id = elem.get('id') if tag == 'channel' else elem.get('channel')
+            
             if not valid_tvg_ids or (tvg_id and tvg_id in valid_tvg_ids):
                 root.append(elem)
                 kept_items += 1
-            elem.clear()
+            else:
+                elem.clear() 
+
     except ET.ParseError as e:
         print(f"❌ XML Parse Error: {e}")
     return total_items, kept_items
