@@ -2,7 +2,7 @@ name: "🔁 Update DrewLive EPG 📺"
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  
   workflow_dispatch: {}
 
 permissions:
@@ -37,23 +37,18 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Always pull first to avoid conflicts
+          git fetch origin main
+          git reset --hard origin/main
+
           git add DrewLive.xml.gz
+
           if git diff --cached --quiet; then
             echo "✅ No changes detected — skipping commit."
-            exit 0
-          fi
-          git commit -m "🔁 Auto-update DrewLive EPG ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-          sleep $((RANDOM % 10 + 5))
-          if ! git push origin main; then
-            echo "⚠️ Push failed, attempting safe rebase..."
-            git pull origin main --rebase || {
-              echo "❌ Rebase failed. Stopping to avoid corruption."
-              exit 1
-            }
-            git push origin main || {
-              echo "❌ Push failed again after rebase."
-              exit 1
-            }
+          else
+            git commit -m "🔁 Auto-update DrewLive EPG ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push origin main
           fi
 
       - name: "📦 Upload DrewLive EPG as artifact"
