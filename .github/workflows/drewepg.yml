@@ -41,7 +41,7 @@ jobs:
           
           # Clean up the old, large XML file (if it exists)
           # '|| true' ignores the error if the file is already gone
-          git rm DrewLive.xml || true
+          git rm DrewLive.xml.gz || true
           
           # Add the new gzipped file
           git add --force DrewLive.xml.gz
