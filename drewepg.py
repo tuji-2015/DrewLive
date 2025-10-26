@@ -6,7 +6,8 @@ from xml.etree import ElementTree as ET
 from io import BytesIO
 
 epg_sources = [
-    "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml",
+
+"https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml",
     "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml",
     "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
@@ -47,7 +48,6 @@ playlist_url = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/head
 output_filename = "DrewLive.xml.gz"
 
 def fetch_tvg_ids_from_playlist(url):
-    """Fetch M3U playlist and extract tvg-ids."""
     try:
         r = requests.get(url, timeout=30)
         r.raise_for_status()
@@ -59,10 +59,7 @@ def fetch_tvg_ids_from_playlist(url):
         return set()
 
 def fetch_with_retry(url, retries=3, delay=10, timeout=30):
-    """Fetch a URL with retries."""
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36'
-    }
+    headers = {'User-Agent': 'Mozilla/5.0'}
     for attempt in range(1, retries + 1):
         try:
             r = requests.get(url, headers=headers, timeout=timeout)
@@ -75,13 +72,9 @@ def fetch_with_retry(url, retries=3, delay=10, timeout=30):
     return None
 
 def strip_namespace(tag):
-    """Remove XML namespace if present."""
-    if '}' in tag:
-        return tag.split('}', 1)[1]
-    return tag
+    return tag.split('}', 1)[1] if '}' in tag else tag
 
 def stream_parse_epg(file_obj, valid_tvg_ids, root):
-    """Parse XML and append only valid channels/programmes."""
     kept_items = 0
     total_items = 0
     try:
@@ -90,10 +83,8 @@ def stream_parse_epg(file_obj, valid_tvg_ids, root):
             if tag not in ('channel', 'programme'):
                 elem.clear()
                 continue
-
             total_items += 1
             tvg_id = elem.get('id') if tag == 'channel' else elem.get('channel')
-
             if not valid_tvg_ids or (tvg_id and tvg_id in valid_tvg_ids):
                 root.append(elem)
                 kept_items += 1
@@ -103,7 +94,6 @@ def stream_parse_epg(file_obj, valid_tvg_ids, root):
     return total_items, kept_items
 
 def merge_and_filter_epg(epg_sources, playlist_url, output_file):
-    """Fetch, merge, filter EPGs, and save gzipped XML."""
     valid_tvg_ids = fetch_tvg_ids_from_playlist(playlist_url)
     root = ET.Element("tv")
     cumulative_total = 0
@@ -132,9 +122,9 @@ def merge_and_filter_epg(epg_sources, playlist_url, output_file):
         print(f"📊 Total items found: {total}, Kept: {kept}")
 
     try:
-        xml_bytes = ET.tostring(root, encoding="utf-8", xml_declaration=True)
-        with gzip.open(output_file, "wb") as f:
-            f.write(xml_bytes)
+        with gzip.open(output_file, "wb") as f:  
+            tree = ET.ElementTree(root)
+            tree.write(f, encoding="utf-8", xml_declaration=True)
     except Exception as e:
         print(f"❌ Failed to write output file: {e}")
         return
