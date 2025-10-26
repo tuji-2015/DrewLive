@@ -32,7 +32,7 @@ epg_sources = [
     "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz",
-    "httpscss://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_GR1.xml.gz",
