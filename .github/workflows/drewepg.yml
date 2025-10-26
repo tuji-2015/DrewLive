@@ -1,71 +1,64 @@
-name: "🔁 Update DrewLive EPG 📺"
+name: 🔁 Update DrewLive EPG 📺
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch: {}
+    - cron: '15 * * * *' 
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update_epg:
+  update-epg:
     runs-on: ubuntu-latest
 
     steps:
-      - name: "📥 Checkout repository"
+      - name: 📥 Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: "🐍 Set up Python 3.11"
+      - name: 🐍 Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: "📦 Install dependencies"
+      - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: "🎯 Run DrewLive EPG merger"
+      - name: 🎯 Run DrewLive EPG merger
         run: python drewepg.py
 
-      - name: "💾 Commit & Push EPG"
+      - name: 💾 Commit & Push if EPG Changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Stop script on any error
-          set -e 
-          
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Clean up the old, large XML file (if it exists)
-          # '|| true' ignores the error if the file is already gone
-          git rm DrewLive.xml.gz || true
-          
-          # Add the new gzipped file
-          git add --force DrewLive.xml.gz
-          
-          # Check if there are any *staged* changes.
-          # If no changes, exit successfully.
-          if git diff --staged --quiet; then
-            echo "✅ No changes to DrewLive.xml.gz. Nothing to commit."
+
+          # --- MATCHES YOUR SCRIPT OUTPUT ---
+          git add DrewLive.xml.gz
+
+          if git diff --cached --quiet; then
+            echo "✅ No changes detected — skipping commit."
             exit 0
           fi
-          
-          echo "🔥 Changes detected. Pulling, committing, and pushing..."
-          
-          # Pull with rebase. Git will auto-stash the staged changes.
-          git pull --rebase origin main
-          
-          # Commit the staged changes
-          git commit -m "🔁 Auto-update DrewLive EPG ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-          
-          # Push to the remote
-          git push origin main
 
-      - name: "📦 Upload DrewLive EPG as artifact"
-        uses: actions/upload-artifact@v4
-        with:
-          name: DrewLive-EPG
-          path: DrewLive.xml.gz
+          git commit -m "🔁 Auto-update DrewLive EPG ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+
+          # Random delay to avoid push collisions
+          sleep $((RANDOM % 10 + 5))
+
+          if ! git push origin main; then
+            echo "⚠️ Push failed, attempting safe rebase..."
+            git pull origin main --rebase || {
+              echo "❌ Rebase failed. Stopping to avoid corruption."
+              exit 1
+            }
+            git push origin main || {
+              echo "❌ Push failed again after rebase."
+              exit 1
+            }
+          fi
