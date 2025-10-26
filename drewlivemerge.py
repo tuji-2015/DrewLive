@@ -23,8 +23,7 @@ playlist_urls = [
     "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/DaddyLive.m3u8",
     "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/Roku.m3u8",
     "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/PPVLand.m3u8",
-    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/Roxiestreams.m3u8",
-    "http://drewlive24.duckdns.org:8081/Pixelsports.m3u8"
+    "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/Roxiestreams.m3u8"
 ]
 
 EPG_URL = "http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
