@@ -32,23 +32,37 @@ jobs:
         run: python drewepg.py
 
       - name: "💾 Commit & Push EPG"
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          # Stop script on any error
+          set -e 
+          
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Pull latest changes to avoid conflicts
-          git pull --rebase origin main || true
-
-          # Force-add the XML file to stage it
+          
+          # Clean up the old, large XML file (if it exists)
+          # '|| true' ignores the error if the file is already gone
+          git rm DrewLive.xml || true
+          
+          # Add the new gzipped file
           git add --force DrewLive.xml.gz
-
-          # Commit always to make sure changes go through
-          git commit -m "🔁 Auto-update DrewLive EPG ($(date -u +'%Y-%m-%d %H:%M UTC'))" || echo "No changes to commit"
-
-          # Push
-          git push origin main || echo "⚠️ Push failed, maybe no changes"
+          
+          # Check if there are any *staged* changes.
+          # If no changes, exit successfully.
+          if git diff --staged --quiet; then
+            echo "✅ No changes to DrewLive.xml.gz. Nothing to commit."
+            exit 0
+          fi
+          
+          echo "🔥 Changes detected. Pulling, committing, and pushing..."
+          
+          # Pull with rebase. Git will auto-stash the staged changes.
+          git pull --rebase origin main
+          
+          # Commit the staged changes
+          git commit -m "🔁 Auto-update DrewLive EPG ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          
+          # Push to the remote
+          git push origin main
 
       - name: "📦 Upload DrewLive EPG as artifact"
         uses: actions/upload-artifact@v4
