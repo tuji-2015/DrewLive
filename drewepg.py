@@ -1,7 +1,6 @@
 import gzip
 import re
 import requests
-import time
 from xml.etree import ElementTree as ET
 from io import BytesIO
 
@@ -44,9 +43,9 @@ epg_sources = [
 ]
 
 playlist_url = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/MergedPlaylist.m3u8"
-output_filename = "DrewLive.xml.gz"
+output_file = "DrewLive.xml.gz"
 
-def fetch_tvg_ids_from_playlist(url):
+def fetch_tvg_ids(url):
     try:
         r = requests.get(url, timeout=30)
         r.raise_for_status()
@@ -57,80 +56,54 @@ def fetch_tvg_ids_from_playlist(url):
         print(f"❌ Failed to fetch tvg-ids: {e}")
         return set()
 
-def fetch_with_retry(url, retries=3, delay=10, timeout=30):
-    headers = {'User-Agent': 'Mozilla/5.0'}
-    for attempt in range(1, retries + 1):
-        try:
-            r = requests.get(url, headers=headers, timeout=timeout)
-            r.raise_for_status()
-            return r
-        except Exception as e:
-            print(f"⚠️ Attempt {attempt} failed for {url}: {e}")
-            if attempt < retries:
-                time.sleep(delay)
-    return None
-
-def strip_namespace(tag):
-    return tag.split('}', 1)[1] if '}' in tag else tag
-
-def stream_parse_epg(file_obj, valid_tvg_ids, root):
-    kept_items = 0
-    total_items = 0
+def fetch_epg(url):
     try:
-        for event, elem in ET.iterparse(file_obj, events=('end',)):
-            tag = strip_namespace(elem.tag)
-            if tag not in ('channel', 'programme'):
-                elem.clear()
-                continue
-            total_items += 1
-            tvg_id = elem.get('id') if tag == 'channel' else elem.get('channel')
-            if not valid_tvg_ids or (tvg_id and tvg_id in valid_tvg_ids):
-                root.append(elem)
-                kept_items += 1
-            elem.clear()
-    except ET.ParseError as e:
-        print(f"❌ XML Parse Error: {e}")
-    return total_items, kept_items
+        r = requests.get(url, timeout=30)
+        r.raise_for_status()
+        content = r.content
+        if url.endswith(".gz"):
+            content = gzip.decompress(content)
+        return BytesIO(content)
+    except Exception as e:
+        print(f"❌ Failed to fetch {url}: {e}")
+        return None
 
 def merge_and_filter_epg(epg_sources, playlist_url, output_file):
-    valid_tvg_ids = fetch_tvg_ids_from_playlist(playlist_url)
+    valid_ids = fetch_tvg_ids(playlist_url)
     root = ET.Element("tv")
-    cumulative_total = 0
-    cumulative_kept = 0
+    total_items = 0
+    kept_items = 0
 
     for url in epg_sources:
         print(f"\n🌐 Processing: {url}")
-        resp = fetch_with_retry(url, retries=3, delay=10, timeout=60)
-        if not resp:
-            print(f"❌ Failed to fetch {url}")
+        file_obj = fetch_epg(url)
+        if not file_obj:
             continue
+        try:
+            for event, elem in ET.iterparse(file_obj, events=('end',)):
+                tag = elem.tag.split('}')[-1]  
+                if tag not in ('channel', 'programme'):
+                    elem.clear()
+                    continue
 
-        content = resp.content
-        if url.endswith(".gz"):
-            try:
-                content = gzip.decompress(content)
-            except Exception as e:
-                print(f"❌ Failed to decompress {url}: {e}")
-                continue
+                tvg_id = elem.get('id') if tag == 'channel' else elem.get('channel')
+                if not valid_ids or (tvg_id and tvg_id in valid_ids):
+                    root.append(elem)
+                    kept_items += 1
 
-        with BytesIO(content) as file_obj:
-            total, kept = stream_parse_epg(file_obj, valid_tvg_ids, root)
+                total_items += 1
+                elem.clear()
+        except ET.ParseError as e:
+            print(f"❌ Parse error for {url}: {e}")
 
-        cumulative_total += total
-        cumulative_kept += kept
-        print(f"📊 Total items found: {total}, Kept: {kept}")
+    print(f"\n📊 Total items processed: {total_items}, Kept: {kept_items}")
 
     try:
-        with gzip.open(output_file, "wb") as f:  
-            tree = ET.ElementTree(root)
-            tree.write(f, encoding="utf-8", xml_declaration=True)
+        with gzip.open(output_file, "wb") as f:
+            ET.ElementTree(root).write(f, encoding="utf-8", xml_declaration=True)
+        print(f"✅ Filtered EPG saved to: {output_file}")
     except Exception as e:
         print(f"❌ Failed to write output file: {e}")
-        return
-
-    print(f"\n✅ Filtered EPG saved to: {output_file}")
-    print(f"📈 Cumulative items processed: {cumulative_total}")
-    print(f"📈 Total items kept: {cumulative_kept}")
 
 if __name__ == "__main__":
-    merge_and_filter_epg(epg_sources, playlist_url, output_filename)
+    merge_and_filter_epg(epg_sources, playlist_url, output_file)
