@@ -1,111 +1,115 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Espanyol vs Elche
+https://sluc.009292.xyz/deportes.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Athletic Club vs Getafe
 https://sluc.009292.xyz/deportes.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Girona vs Real Oviedo
 https://sluc.009292.xyz/deportes.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Espanyol vs Elche
-https://sluc.009292.xyz/deportes.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Los Angeles Dodgers vs Toronto Blue Jays
-https://slux.009292.xyz/mlbalt.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Los Angeles Dodgers vs Toronto Blue Jays
 https://slux.009292.xyz/mlb.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Chicago Bulls vs Orlando Magic
-https://saz.blitzen.store/nba.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Los Angeles Dodgers vs Toronto Blue Jays
+https://slux.009292.xyz/mlbalt.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Phoniex Suns vs Denver Nuggets
+https://sluc.009292.xyz/nba5.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Indiana Pacers vs Memphis Grizzlies
 https://saz.blitzen.store/nba4.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Oklahoma City Thunder vs Atlanta Hawks
 https://saz.blitzen.store/nba3.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Phoniex Suns vs Denver Nuggets
-https://sluc.009292.xyz/nba5.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Chicago Bulls vs Orlando Magic
+https://saz.blitzen.store/nba.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Florida Atlantic vs Navy
 https://slux.009292.xyz/ncaa9.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Missouri vs Vanderbilt
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Colorado vs Utah
 https://slux.009292.xyz/ncaa10.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Minnesota vs Iowa
-https://slux.009292.xyz/ncaa13.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Wisconsin vs Oregon
-https://slux.009292.xyz/ncaa4.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - San Diego State vs Fresno State
-https://slux.009292.xyz/ncaa4.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - NC State vs Pitt
-https://slux.009292.xyz/ncaa6.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Appalachian State vs Old Dominion
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Oklahoma State vs Texas Tech
 https://slux.009292.xyz/ncaa7.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Stanford vs Miami (FL)
-https://slux.009292.xyz/ncaa10.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Toledo vs Washington State
-https://slux.009292.xyz/ncaa5.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Ole Miss vs Oklahoma
-https://slux.009292.xyz/ncaa2.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Texas A&M vs LSU
-https://slux.009292.xyz/ncaa2.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Baylor vs Cincinnati
-https://slux.009292.xyz/ncaa8.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Northwestern vs Nebraska
-https://slux.009292.xyz/ncaa4.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Tennessee vs Kentucky
-https://slux.009292.xyz/ncaa11.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Virginia vs North Carolina
-https://slux.009292.xyz/ncaa6.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Colorado State vs Wyoming
-https://slux.009292.xyz/ncaa9.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Boston College vs Louisville
-https://slux.009292.xyz/ncaa6.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - UCLA vs Indiana
-https://slux.009292.xyz/mlb.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Syracuse vs Georgia Tech
 https://slux.009292.xyz/ncaa10.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Texas vs Mississippi State
+https://slux.009292.xyz/ncaa11.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Wisconsin vs Oregon
+https://slux.009292.xyz/ncaa4.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Stanford vs Miami (FL)
+https://slux.009292.xyz/ncaa10.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Houston vs Arizona State
+https://slux.009292.xyz/ncaa8.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Colorado State vs Wyoming
+https://slux.009292.xyz/ncaa9.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Baylor vs Cincinnati
+https://slux.009292.xyz/ncaa8.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Minnesota vs Iowa
+https://slux.009292.xyz/ncaa13.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Appalachian State vs Old Dominion
+https://slux.009292.xyz/ncaa7.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Texas A&M vs LSU
+https://slux.009292.xyz/ncaa2.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Kansas State vs Kansas
 https://slux.009292.xyz/ncaa.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - BYU vs Iowa State
 https://slux.009292.xyz/mlb.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Ohio vs Eastern Michigan
-https://slux.009292.xyz/ncaa9.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Colorado vs Utah
-https://slux.009292.xyz/ncaa10.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - USF vs Memphis
-https://slux.009292.xyz/ncaa8.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Houston vs Arizona State
-https://slux.009292.xyz/ncaa8.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - North Dakota State vs South Dakota State
-https://slux.009292.xyz/ncaa7.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Texas vs Mississippi State
-https://slux.009292.xyz/ncaa11.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Alabama vs South Carolina
 https://slux.009292.xyz/ncaa4.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - SMU vs Wake Forest
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Boston College vs Louisville
+https://slux.009292.xyz/ncaa6.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - UCLA vs Indiana
+https://slux.009292.xyz/mlb.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Missouri vs Vanderbilt
+https://slux.009292.xyz/ncaa10.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Toledo vs Washington State
 https://slux.009292.xyz/ncaa5.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Oklahoma State vs Texas Tech
-https://slux.009292.xyz/ncaa7.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Auburn vs Arkansas
 https://slux.009292.xyz/ncaa11.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",Roxiestreams - UFC 321: Tom Aspinall vs Ciryl Gane
-https://saz.blitzen.store/box.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Ole Miss vs Oklahoma
+https://slux.009292.xyz/ncaa2.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Ohio vs Eastern Michigan
+https://slux.009292.xyz/ncaa9.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - San Diego State vs Fresno State
+https://slux.009292.xyz/ncaa4.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - NC State vs Pitt
+https://slux.009292.xyz/ncaa6.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Virginia vs North Carolina
+https://slux.009292.xyz/ncaa6.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - USF vs Memphis
+https://slux.009292.xyz/ncaa8.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - SMU vs Wake Forest
+https://slux.009292.xyz/ncaa5.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - North Dakota State vs South Dakota State
+https://slux.009292.xyz/ncaa7.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Tennessee vs Kentucky
+https://slux.009292.xyz/ncaa11.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Northwestern vs Nebraska
+https://slux.009292.xyz/ncaa4.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",Roxiestreams - UFC 321: Tom Aspinall vs Ciryl Gane
 https://saz.blitzen.store/ufc.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams",Roxiestreams - MotoGP - Malaysia Grand Prix
-https://saz.blitzen.store/motogp.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",Roxiestreams - UFC 321: Tom Aspinall vs Ciryl Gane
+https://star.blitzen.store/ufc.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",Roxiestreams - UFC 321: Tom Aspinall vs Ciryl Gane
+https://saz.blitzen.store/box.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams",Roxiestreams - Formula 1 - Free Practice
+https://sluc.009292.xyz/f1alt.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams",Roxiestreams - Formula 1 - Free Practice
+https://sluc.009292.xyz/f1.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams",Roxiestreams - MotoGP - Malaysia Grand Prix
 https://saz.blitzen.store/moto.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams",Roxiestreams - MotoGP - Malaysia Grand Prix
+https://saz.blitzen.store/motogp.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams",Roxiestreams - Formula 1 - Qualfiying
 https://sluc.009292.xyz/f1alt.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams",Roxiestreams - Formula 1 - Qualfiying
-https://sluc.009292.xyz/f1.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams",Roxiestreams - Formula 1 - Free Practice
-https://sluc.009292.xyz/f1alt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams",Roxiestreams - Formula 1 - Free Practice
 https://sluc.009292.xyz/f1.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",Roxiestreams - EVLS Prague Pro
 https://solo.blitzen.store/ppv.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Roxiestreams",Roxiestreams - UFC 321: Tom Aspinall vs Ciryl Gane
-https://saz.blitzen.store/box.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Roxiestreams",Roxiestreams - UFC 321: Tom Aspinall vs Ciryl Gane
 https://saz.blitzen.store/ufc.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Roxiestreams",Roxiestreams - UFC 321: Tom Aspinall vs Ciryl Gane
+https://star.blitzen.store/ufc.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" tvg-id="UFC.Fight.Pass.Dummy.us" group-title="Roxiestreams",Roxiestreams - UFC 321: Tom Aspinall vs Ciryl Gane
+https://saz.blitzen.store/box.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams",Roxiestreams - Formula 1
 https://sluc.009292.xyz/f1alt.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams",Roxiestreams - Formula 1
 https://sluc.009292.xyz/f1.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams",Roxiestreams - MLB World Series
-https://slux.009292.xyz/mlbalt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams",Roxiestreams - MLB World Series
 https://slux.009292.xyz/mlb.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams",Roxiestreams - MLB World Series
+https://slux.009292.xyz/mlbalt.m3u8
