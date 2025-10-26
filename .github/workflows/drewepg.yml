@@ -1,64 +1,66 @@
 name: 🔁 Update DrewLive EPG 📺
 
 on:
-  schedule:
-    - cron: '0 * * * *' 
-  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *' 
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write
 
 jobs:
-  update_epg:
-    runs-on: ubuntu-latest
+  update_epg:
+    runs-on: ubuntu-latest
 
-    steps:
-      - name: 📥 Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: 🐍 Set up Python 3.11
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+      - name: 🐍 Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-      - name: 📦 Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+      - name: 📦 Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-      - name: 🎯 Run DrewLive EPG merger
-        run: python drewepg.py
+      - name: 🎯 Run DrewLive EPG merger
+        run: python drewepg.py
 
-      - name: 💾 Commit & Push if EPG Changed
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+      - name: 💾 Commit & Push if EPG Changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # --- Matches your Python script output ---
-          git add DrewLive.xml.gz
+          # Add the updated EPG
+          git add DrewLive.xml.gz
 
-          if git diff --cached --quiet; then
-            echo "✅ No changes detected — skipping commit."
-            exit 0
-          fi
+          # Only commit if there are changes
+          if git diff --cached --quiet; then
+            echo "✅ No changes detected — skipping commit."
+            exit 0
+          fi
 
-          git commit -m "🔁 Auto-update DrewLive EPG ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          git commit -m "🔁 Auto-update DrewLive EPG ($(date -u +'%Y-%m-%d %H:%M UTC'))"
 
-          # Random delay to reduce push collisions
-          sleep $((RANDOM % 10 + 5))
+          # Random small delay to reduce collisions
+          sleep $((RANDOM % 10 + 5))
 
-          if ! git push origin main; then
-            echo "⚠️ Push failed, attempting safe rebase..."
-            git pull origin main --rebase || {
-              echo "❌ Rebase failed. Stopping to avoid corruption."
-              exit 1
-            }
-            git push origin main || {
-              echo "❌ Push failed again after rebase."
-              exit 1
-            }
-          fi
+          # Push with safe rebase if needed
+          if ! git push origin main; then
+            echo "⚠️ Push failed, attempting safe rebase..."
+            git pull origin main --rebase || {
+              echo "❌ Rebase failed. Stopping to avoid corruption."
+              exit 1
+            }
+            git push origin main || {
+              echo "❌ Push failed again after rebase."
+              exit 1
+            }
+          fi
