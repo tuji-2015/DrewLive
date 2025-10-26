@@ -23,7 +23,7 @@ epg_sources = [
     "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz",
     "https://tvpass.org/epg.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
-    "https://epg.freejptv.com/jp.xml",
+    "http://drewlive24.duckdns.org:8081/JapanTV.xml.gz",
     "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
