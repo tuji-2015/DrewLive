@@ -6,8 +6,7 @@ from xml.etree import ElementTree as ET
 from io import BytesIO
 
 epg_sources = [
-
-"https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml",
+    "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml",
     "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml",
     "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
