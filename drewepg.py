@@ -62,9 +62,14 @@ def fetch_tvg_ids_from_playlist(url):
 
 def fetch_with_retry(url, retries=3, delay=10, timeout=30):
     """Attempts to fetch a URL with a specified number of retries."""
+    
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36'
+    }
+
     for attempt in range(1, retries + 1):
         try:
-            r = requests.get(url, timeout=timeout)
+            r = requests.get(url, headers=headers, timeout=timeout) 
             r.raise_for_status()
             return r
         except Exception as e:
