@@ -29,7 +29,7 @@ jobs:
           pip install requests
 
       - name: 🎯 Run DrewLive EPG merger
-        run: python DrewLiveEPG.py
+        run: python drewepg.py
 
       - name: 💾 Commit & Push if EPG Changed
         env:
