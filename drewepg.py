@@ -45,7 +45,7 @@ epg_sources = [
 ]
 
 playlist_url = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/MergedPlaylist.m3u8"
-output_filename = "DrewLive.xml.gz"
+output_filename = r"C:\Users\andre\www\DrewLive.xml.gz"
 
 def fetch_tvg_ids_from_playlist(url):
     try:
@@ -70,6 +70,22 @@ def fetch_with_retry(url, retries=3, delay=10, timeout=30):
                 time.sleep(delay)
     return None
 
+def stream_parse_epg(file_obj, valid_tvg_ids, root):
+    kept_channels = 0
+    total_items = 0
+    try:
+        tree = ET.parse(file_obj)
+        for child in tree.getroot():
+            if child.tag == 'channel' or child.tag == 'programme':
+                total_items += 1
+                tvg_id = child.get('id') or child.get('channel')
+                if tvg_id in valid_tvg_ids:
+                    root.append(child)
+                    kept_channels += 1
+    except ET.ParseError:
+        print("❌ XML Parse Error")
+    return total_items, kept_channels
+
 def merge_and_filter_epg(epg_sources, playlist_url, output_file):
     valid_tvg_ids = fetch_tvg_ids_from_playlist(playlist_url)
     root = ET.Element("tv")
@@ -82,26 +98,10 @@ def merge_and_filter_epg(epg_sources, playlist_url, output_file):
         if not resp:
             print(f"❌ Failed to fetch {url}")
             continue
-        
         content = resp.content
         if url.endswith(".gz"):
             content = gzip.decompress(content)
-
-        total_items = 0
-        kept_channels = 0
-        try:
-            tree = ET.parse(BytesIO(content))
-            for child in tree.getroot():
-                if child.tag == 'channel' or child.tag == 'programme':
-                    total_items += 1
-                    tvg_id = child.get('id') or child.get('channel')
-                    if tvg_id in valid_tvg_ids:
-                        root.append(child)
-                        kept_channels += 1
-        except ET.ParseError:
-            print("❌ XML Parse Error")
-        
-        total, kept = total_items, kept_channels
+        total, kept = stream_parse_epg(BytesIO(content), valid_tvg_ids, root)
         cumulative_total += total
         cumulative_kept += kept
         print(f"📊 Total items found: {total}, Kept: {kept}")
