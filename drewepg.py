@@ -1,4 +1,3 @@
-import os
 import gzip
 import re
 import requests
@@ -45,11 +44,10 @@ epg_sources = [
 ]
 
 playlist_url = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/MergedPlaylist.m3u8"
-
 output_filename = "DrewLive.xml.gz"
 
 def fetch_tvg_ids_from_playlist(url):
-    """Fetches the M3U8 playlist and extracts all unique tvg-id tags."""
+    """Fetch M3U playlist and extract tvg-ids."""
     try:
         r = requests.get(url, timeout=30)
         r.raise_for_status()
@@ -57,19 +55,17 @@ def fetch_tvg_ids_from_playlist(url):
         print(f"✅ Loaded {len(ids)} tvg-ids from playlist")
         return ids
     except Exception as e:
-        print(f"❌ Failed to fetch tvg-ids from playlist: {e}")
+        print(f"❌ Failed to fetch tvg-ids: {e}")
         return set()
 
 def fetch_with_retry(url, retries=3, delay=10, timeout=30):
-    """Attempts to fetch a URL with a specified number of retries."""
-    
+    """Fetch a URL with retries."""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36'
     }
-
     for attempt in range(1, retries + 1):
         try:
-            r = requests.get(url, headers=headers, timeout=timeout) 
+            r = requests.get(url, headers=headers, timeout=timeout)
             r.raise_for_status()
             return r
         except Exception as e:
@@ -78,38 +74,40 @@ def fetch_with_retry(url, retries=3, delay=10, timeout=30):
                 time.sleep(delay)
     return None
 
+def strip_namespace(tag):
+    """Remove XML namespace if present."""
+    if '}' in tag:
+        return tag.split('}', 1)[1]
+    return tag
+
 def stream_parse_epg(file_obj, valid_tvg_ids, root):
-    """
-    Parses an XML EPG file object and appends valid channels and programmes
-    to the root XML element.
-    """
+    """Parse XML and append only valid channels/programmes."""
     kept_items = 0
     total_items = 0
     try:
         for event, elem in ET.iterparse(file_obj, events=('end',)):
-            if elem.tag == 'channel' or elem.tag == 'programme':
-                total_items += 1
-                tvg_id = elem.get('id') if elem.tag == 'channel' else elem.get('channel')
-                if tvg_id in valid_tvg_ids:
-                    root.append(elem)  
-                    kept_items += 1
+            tag = strip_namespace(elem.tag)
+            if tag not in ('channel', 'programme'):
                 elem.clear()
+                continue
+
+            total_items += 1
+            tvg_id = elem.get('id') if tag == 'channel' else elem.get('channel')
+
+            if not valid_tvg_ids or (tvg_id and tvg_id in valid_tvg_ids):
+                root.append(elem)
+                kept_items += 1
+            elem.clear()
     except ET.ParseError as e:
         print(f"❌ XML Parse Error: {e}")
     return total_items, kept_items
 
 def merge_and_filter_epg(epg_sources, playlist_url, output_file):
-    """
-    Main function to fetch, filter, and merge EPGs, then save to a gzipped file.
-    """
+    """Fetch, merge, filter EPGs, and save gzipped XML."""
     valid_tvg_ids = fetch_tvg_ids_from_playlist(playlist_url)
-    if not valid_tvg_ids:
-        print("❌ No valid tvg-ids found. Aborting.")
-        return
-
     root = ET.Element("tv")
-    cumulative_kept = 0
     cumulative_total = 0
+    cumulative_kept = 0
 
     for url in epg_sources:
         print(f"\n🌐 Processing: {url}")
@@ -117,18 +115,18 @@ def merge_and_filter_epg(epg_sources, playlist_url, output_file):
         if not resp:
             print(f"❌ Failed to fetch {url}")
             continue
-        
+
         content = resp.content
-        try:
-            if url.endswith(".gz"):
+        if url.endswith(".gz"):
+            try:
                 content = gzip.decompress(content)
-        except Exception as e:
-            print(f"❌ Failed to decompress {url}: {e}")
-            continue
+            except Exception as e:
+                print(f"❌ Failed to decompress {url}: {e}")
+                continue
 
         with BytesIO(content) as file_obj:
             total, kept = stream_parse_epg(file_obj, valid_tvg_ids, root)
-            
+
         cumulative_total += total
         cumulative_kept += kept
         print(f"📊 Total items found: {total}, Kept: {kept}")
