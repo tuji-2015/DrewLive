@@ -42,7 +42,7 @@ jobs:
           git pull --rebase origin main || true
 
           # Force-add the XML file to stage it
-          git add --force DrewLive.xml
+          git add --force DrewLive.xml.gz
 
           # Commit always to make sure changes go through
           git commit -m "🔁 Auto-update DrewLive EPG ($(date -u +'%Y-%m-%d %H:%M UTC'))" || echo "No changes to commit"
@@ -54,4 +54,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: DrewLive-EPG
-          path: DrewLive.xml
+          path: DrewLive.xml.gz
