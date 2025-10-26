@@ -45,7 +45,7 @@ epg_sources = [
 ]
 
 playlist_url = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/MergedPlaylist.m3u8"
-output_filename = r"C:\Users\andre\www\DrewLive.xml.gz"
+output_filename = "DrewLive.xml.gz"
 
 def fetch_tvg_ids_from_playlist(url):
     try:
