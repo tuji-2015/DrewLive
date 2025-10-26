@@ -47,6 +47,7 @@ playlist_url = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/head
 output_filename = "DrewLive.xml.gz"
 
 def fetch_tvg_ids_from_playlist(url):
+    """Fetch M3U playlist and extract tvg-ids."""
     try:
         r = requests.get(url, timeout=30)
         r.raise_for_status()
@@ -58,6 +59,7 @@ def fetch_tvg_ids_from_playlist(url):
         return set()
 
 def fetch_with_retry(url, retries=3, delay=10, timeout=30):
+    """Fetch a URL with retries."""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36'
     }
@@ -73,9 +75,13 @@ def fetch_with_retry(url, retries=3, delay=10, timeout=30):
     return None
 
 def strip_namespace(tag):
-    return tag.split('}', 1)[1] if '}' in tag else tag
+    """Remove XML namespace if present."""
+    if '}' in tag:
+        return tag.split('}', 1)[1]
+    return tag
 
 def stream_parse_epg(file_obj, valid_tvg_ids, root):
+    """Parse XML and append only valid channels/programmes."""
     kept_items = 0
     total_items = 0
     try:
@@ -97,6 +103,7 @@ def stream_parse_epg(file_obj, valid_tvg_ids, root):
     return total_items, kept_items
 
 def merge_and_filter_epg(epg_sources, playlist_url, output_file):
+    """Fetch, merge, filter EPGs, and save gzipped XML."""
     valid_tvg_ids = fetch_tvg_ids_from_playlist(playlist_url)
     root = ET.Element("tv")
     cumulative_total = 0
@@ -125,9 +132,9 @@ def merge_and_filter_epg(epg_sources, playlist_url, output_file):
         print(f"📊 Total items found: {total}, Kept: {kept}")
 
     try:
-        with gzip.open(output_file, "wt", encoding="utf-8", mtime=0) as f:
-            tree = ET.ElementTree(root)
-            tree.write(f, encoding="unicode", xml_declaration=True)
+        xml_bytes = ET.tostring(root, encoding="utf-8", xml_declaration=True)
+        with gzip.open(output_file, "wb") as f:
+            f.write(xml_bytes)
     except Exception as e:
         print(f"❌ Failed to write output file: {e}")
         return
@@ -135,7 +142,6 @@ def merge_and_filter_epg(epg_sources, playlist_url, output_file):
     print(f"\n✅ Filtered EPG saved to: {output_file}")
     print(f"📈 Cumulative items processed: {cumulative_total}")
     print(f"📈 Total items kept: {cumulative_kept}")
-    print(f"📦 Final gz size: {round(os.path.getsize(output_file)/1024/1024, 2)} MB")
 
 if __name__ == "__main__":
     merge_and_filter_epg(epg_sources, playlist_url, output_filename)
