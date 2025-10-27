@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
+﻿#EXTM3U url-tvg="https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewLive.xml.gz"
 #EXTINF:-1  tvg-name="Adult Swim Daily Animated" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ytimg.com/vi/8OXOnoO_AwY/maxresdefault.jpg" group-title="DrewLive Adult Swim 24/7" radio="false",Adult Swim Daily Animated
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
 #EXTINF:-1  tvg-name="Adult Swim Infomercials" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ytimg.com/vi/8OXOnoO_AwY/maxresdefault.jpg" group-title="DrewLive Adult Swim 24/7" radio="false",Adult Swim Infomercials
