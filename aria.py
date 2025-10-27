@@ -1,5 +1,6 @@
 import requests
 import re
+import os
 
 PLAYLIST_URLS = [
     "https://raw.githubusercontent.com/theariatv/theariatv.github.io/refs/heads/main/aria.m3u",
@@ -11,53 +12,88 @@ OUTPUT_FILE = "AriaPlus.m3u8"
 ALLOWED_GROUPS = [
     "Australia", "Canada", "Japan", "New Zealand",
     "North Korea", "United Kingdom", "United States",
-    "South Korea", "Leaving On Aria+"
+    "South Korea"
 ]
 
+group_regex = re.compile(r'group-title="([^"]*)"')
+
 def fetch_playlist(url):
+    """Fetch playlist text and split into lines."""
     r = requests.get(url)
     r.raise_for_status()
     return r.text.splitlines()
 
-def remap_group_title(line):
-    """Force group-title to AriaPlus - <original group> if allowed"""
-    if line.startswith("#EXTINF:"):
-        match = re.search(r'group-title="([^"]*)"', line)
-        original_group = match.group(1) if match else "Unknown"
-        if original_group not in ALLOWED_GROUPS:
-            return None
-        line = re.sub(r'\s*group-title="[^"]*"', '', line)
-        parts = line.split(",", 1)
-        header = parts[0].strip()
-        title = parts[1] if len(parts) > 1 else ""
-        header += f' group-title="AriaPlus - {original_group}"'
-        return f"{header},{title}"
-    return line
+def get_existing_urls(file_path):
+    """Collect URLs already present in the local playlist."""
+    urls = set()
+    if not os.path.exists(file_path):
+        return urls
+    with open(file_path, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+    for i, line in enumerate(lines):
+        if line.startswith("#EXTINF") and i + 1 < len(lines):
+            urls.add(lines[i + 1].strip())
+    return urls
 
-def process_playlist(lines):
+def remap_group_title(line):
+    """Prefix allowed group-titles with 'AriaPlus -', keep all other metadata intact."""
+    match = group_regex.search(line)
+    if not match:
+        return None
+    original_group = match.group(1)
+    if original_group not in ALLOWED_GROUPS:
+        return None
+
+    new_line = re.sub(
+        r'group-title="[^"]*"',
+        f'group-title="AriaPlus - {original_group}"',
+        line
+    )
+    return new_line
+
+def process_playlist(lines, existing_urls):
+    """Filter + remap channels, skipping already existing URLs."""
     output_lines = []
-    keep_channel = False
-    for line in lines:
+    skip_next = False
+    for i, line in enumerate(lines):
         line = line.strip()
         if line.startswith("#EXTINF:"):
             new_line = remap_group_title(line)
-            if new_line:
-                output_lines.append(new_line)
-                keep_channel = True
-            else:
-                keep_channel = False
-        elif line.startswith("http") and keep_channel:
-            output_lines.append(line)
+            if not new_line:
+                skip_next = True
+                continue
+            # Check next line for URL
+            if i + 1 < len(lines):
+                url_line = lines[i + 1].strip()
+                if url_line not in existing_urls:
+                    output_lines.append(new_line)
+                    output_lines.append(url_line)
+                    existing_urls.add(url_line)
+            skip_next = True
     return output_lines
 
-if __name__ == "__main__":
-    final_output = ["#EXTM3U"]
+def main():
+    print("🔄 Updating AriaPlus playlist...")
+    existing_urls = get_existing_urls(OUTPUT_FILE)
+    new_entries = []
 
     for url in PLAYLIST_URLS:
-        lines = fetch_playlist(url)
-        final_output.extend(process_playlist(lines))
+        try:
+            lines = fetch_playlist(url)
+            new_entries.extend(process_playlist(lines, existing_urls))
+        except Exception as e:
+            print(f"⚠️ Failed to fetch {url}: {e}")
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(final_output))
+    if not os.path.exists(OUTPUT_FILE):
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            f.write("#EXTM3U\n")
 
-    print(f"✅ Combined Aria playlists filtered and saved to {OUTPUT_FILE}")
+    if new_entries:
+        with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
+            f.write("\n".join(new_entries) + "\n")
+        print(f"✅ Added {len(new_entries)//2} new entries to {OUTPUT_FILE}")
+    else:
+        print("ℹ No new entries — playlist unchanged.")
+
+if __name__ == "__main__":
+    main()
