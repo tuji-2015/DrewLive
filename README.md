@@ -76,7 +76,7 @@ Stay synced with live guide data for your players.
 
 🔗 **Merged EPG (Full Source)**
 ✔️ Full EPG data from all sources
-* [DrewLive EPG](http://drewlive24.duckdns.org:8081/DrewLive.xml.gz)
+* [DrewLive EPG](https://tinyurl.com/DrewLiveEPG24)
 
 ━━━━━━━━━━━━━━━━━━━━
 
