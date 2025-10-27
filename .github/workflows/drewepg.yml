@@ -2,7 +2,7 @@ name: 🔁 Update DrewLive EPG 📺
 
 on:
   schedule:
-    - cron: '15 * * * *' 
+    - cron: '0,30 * * * *'
   workflow_dispatch:
 
 permissions:
