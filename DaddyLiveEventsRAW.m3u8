@@ -1,517 +1,145 @@
 #EXTM3U url-tvg="https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewLive.xml.gz"
-# Generated: 2025-10-26T14:25:52.456657+00:00 UTC
+# Generated: 2025-10-27T09:47:01.411842+00:00 UTC
 
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" group-title="DaddyLive - Aussie Rules Football",Afl Women: Carlton Blues w vs Greater Western Sydney w 04:00 (oct-26-2025 04:00 Am Uk / Oct-25-2025 10:00 Pm Mdt / Oct-26-2025 12:00 Am Edt)
-https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" group-title="DaddyLive - Aussie Rules Football",Afl Women: Gold Coast Suns w vs Collingwood Magpies w 05:05 (oct-26-2025 05:05 Am Uk / Oct-25-2025 11:05 Pm Mdt / Oct-26-2025 01:05 Am Edt)
-https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Asia Pacific Amateur Championship Final 09:00 (oct-26-2025 09:00 Am Uk / Oct-26-2025 03:00 Am Mdt / Oct-26-2025 05:00 Am Edt)
-https://windnew.newkso.ru/wind/premium70/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Asia Pacific Amateur Championship Final 09:00 (oct-26-2025 09:00 Am Uk / Oct-26-2025 03:00 Am Mdt / Oct-26-2025 05:00 Am Edt)
-https://windnew.newkso.ru/wind/premium45/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Asia Pacific Amateur Championship Final 09:00 (oct-26-2025 09:00 Am Uk / Oct-26-2025 03:00 Am Mdt / Oct-26-2025 05:00 Am Edt)
-https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Dp World Tour Genesis Championship 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://windnew.newkso.ru/wind/premium70/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Dp World Tour Genesis Championship 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium528/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Dp World Tour Genesis Championship 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium422/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Dp World Tour Genesis Championship 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium710/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Dp World Tour Genesis Championship 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium785/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Dp World Tour Genesis Championship 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium901/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Ladies European Tour-Final Round Wistron Ladies Open 06:00 (oct-26-2025 06:00 Am Uk / Oct-26-2025 12:00 Am Mdt / Oct-26-2025 02:00 Am Edt)
-https://ddy6new.newkso.ru/ddy6/premium454/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Lpga Tour Hanwha Lifeplus International Crown 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Pga Tour Bank Of Utah Championship 19:30 (oct-26-2025 07:30 Pm Uk / Oct-26-2025 01:30 Pm Mdt / Oct-26-2025 03:30 Pm Edt)
-https://windnew.newkso.ru/wind/premium70/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Pga Tour Bank Of Utah Championship 19:30 (oct-26-2025 07:30 Pm Uk / Oct-26-2025 01:30 Pm Mdt / Oct-26-2025 03:30 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium528/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Pga Tour Bank Of Utah Championship 19:30 (oct-26-2025 07:30 Pm Uk / Oct-26-2025 01:30 Pm Mdt / Oct-26-2025 03:30 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium422/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Pga Tour Bank Of Utah Championship 19:30 (oct-26-2025 07:30 Pm Uk / Oct-26-2025 01:30 Pm Mdt / Oct-26-2025 03:30 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium591/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Pga Tour Bank Of Utah Championship 19:30 (oct-26-2025 07:30 Pm Uk / Oct-26-2025 01:30 Pm Mdt / Oct-26-2025 03:30 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium710/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Pga Tour Bank Of Utah Championship 19:30 (oct-26-2025 07:30 Pm Uk / Oct-26-2025 01:30 Pm Mdt / Oct-26-2025 03:30 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium785/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Pga Tour Bank Of Utah Championship 19:30 (oct-26-2025 07:30 Pm Uk / Oct-26-2025 01:30 Pm Mdt / Oct-26-2025 03:30 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium901/mono.m3u8
-#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",Pga Tour Champions Golf Simmons Bank Championship-Final Round 17:30 (oct-26-2025 05:30 Pm Uk / Oct-26-2025 11:30 Am Mdt / Oct-26-2025 01:30 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Aba League: Bc Vienna vs Kk Buducnost Voli 18:30 (oct-26-2025 06:30 Pm Uk / Oct-26-2025 12:30 Pm Mdt / Oct-26-2025 02:30 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Aba League: Kk Krka Novo Mesto vs Dubai 12:00 (oct-26-2025 12:00 Pm Uk / Oct-26-2025 06:00 Am Mdt / Oct-26-2025 08:00 Am Edt)
-https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Aba League: Kk Partizan Nis Belgrade vs Kk Borac Cacak 20:00 (oct-26-2025 08:00 Pm Uk / Oct-26-2025 02:00 Pm Mdt / Oct-26-2025 04:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Aba League: Kk Studentski Centar Podgorica vs Igokea Aleksandrovac 16:00 (oct-26-2025 04:00 Pm Uk / Oct-26-2025 10:00 Am Mdt / Oct-26-2025 12:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium429/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Acb: Murcia vs Baskonia 11:30 (oct-26-2025 11:30 Am Uk / Oct-26-2025 05:30 Am Mdt / Oct-26-2025 07:30 Am Edt)
-https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Acb: Murcia vs Baskonia 11:30 (oct-26-2025 11:30 Am Uk / Oct-26-2025 05:30 Am Mdt / Oct-26-2025 07:30 Am Edt)
-https://windnew.newkso.ru/wind/premium468/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Acb: Real Madrid vs Basquet Manresa 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium455/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Acb: Real Madrid vs Basquet Manresa 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Acb: Real Madrid vs Basquet Manresa 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Acb: Real Madrid vs Basquet Manresa 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Acb: Real Madrid vs Basquet Manresa 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium142/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Acb: Valencia vs Joventut Badalona 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Basket League: Mykonos vs Olympiakos 11:00 (oct-26-2025 11:00 Am Uk / Oct-26-2025 05:00 Am Mdt / Oct-26-2025 07:00 Am Edt)
-https://windnew.newkso.ru/wind/premium453/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Bbl: Alba Berlin vs Bayern 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium581/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Bulgaria Nbl: Balkan Botevgrad vs Rilski Sportist 11:00 (oct-26-2025 11:00 Am Uk / Oct-26-2025 05:00 Am Mdt / Oct-26-2025 07:00 Am Edt)
-https://windnew.newkso.ru/wind/premium473/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",College Basketball: Duke vs Tennessee 22:00 (oct-26-2025 10:00 Pm Uk / Oct-26-2025 04:00 Pm Mdt / Oct-26-2025 06:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium45/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Israeli Basketball Super League: Hapoel Galil Elion vs Maccabi Raanana 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Israeli Basketball Super League: Hapoel Tel-Aviv vs Ironi Nes Ziona 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Israeli Basketball Super League: Maccabi Urban Ramat Gan vs Elitzur Kiryat Ata 16:30 (oct-26-2025 04:30 Pm Uk / Oct-26-2025 10:30 Am Mdt / Oct-26-2025 12:30 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Italy Serie a: Virtus Bologna vs Dinamo Sassari 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium429/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Italy Serie a: Virtus Bologna vs Dinamo Sassari 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Leb Oro: Estudiantes vs Obradoiro Cab 11:30 (oct-26-2025 11:30 Am Uk / Oct-26-2025 05:30 Am Mdt / Oct-26-2025 07:30 Am Edt)
-https://dokko1new.newkso.ru/dokko1/premium526/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Cleveland Cavaliers vs Milwaukee Bucks 22:00 (oct-26-2025 10:00 Pm Uk / Oct-26-2025 04:00 Pm Mdt / Oct-26-2025 06:00 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Cleveland Cavaliers vs Milwaukee Bucks 22:00 (oct-26-2025 10:00 Pm Uk / Oct-26-2025 04:00 Pm Mdt / Oct-26-2025 06:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Cleveland Cavaliers vs Milwaukee Bucks 22:00 (oct-26-2025 10:00 Pm Uk / Oct-26-2025 04:00 Pm Mdt / Oct-26-2025 06:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Dallas Mavericks vs Toronto Raptors 23:30 (oct-26-2025 11:30 Pm Uk / Oct-26-2025 05:30 Pm Mdt / Oct-26-2025 07:30 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium409/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Dallas Mavericks vs Toronto Raptors 23:30 (oct-26-2025 11:30 Pm Uk / Oct-26-2025 05:30 Pm Mdt / Oct-26-2025 07:30 Pm Edt)
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png" group-title="DaddyLive - Combat Zone",World Taekwondo Championships 09:30 (oct-27-2025 09:30 Am Uk / Oct-27-2025 03:30 Am Mdt / Oct-27-2025 05:30 Am Edt)
+https://zekonew.newkso.ru/zeko/premium141/mono.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="DaddyLive - Diamond Baseball",MLB: Toronto Blue Jays vs Los Angeles Dodgers 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="DaddyLive - Diamond Baseball",MLB: Toronto Blue Jays vs Los Angeles Dodgers 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="DaddyLive - Diamond Baseball",MLB: Toronto Blue Jays vs Los Angeles Dodgers 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium54/mono.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="DaddyLive - Diamond Baseball",MLB: Toronto Blue Jays vs Los Angeles Dodgers 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
 https://windnew.newkso.ru/wind/premium408/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Dallas Mavericks vs Toronto Raptors 23:30 (oct-26-2025 11:30 Pm Uk / Oct-26-2025 05:30 Pm Mdt / Oct-26-2025 07:30 Pm Edt)
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="DaddyLive - Diamond Baseball",MLB: Toronto Blue Jays vs Los Angeles Dodgers 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
 https://windnew.newkso.ru/wind/premium406/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Detroit Pistons vs Boston Celtics 19:30 (oct-26-2025 07:30 Pm Uk / Oct-26-2025 01:30 Pm Mdt / Oct-26-2025 03:30 Pm Edt)
-https://windnew.newkso.ru/wind/premium754/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Detroit Pistons vs Boston Celtics 19:30 (oct-26-2025 07:30 Pm Uk / Oct-26-2025 01:30 Pm Mdt / Oct-26-2025 03:30 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Detroit Pistons vs Boston Celtics 19:30 (oct-26-2025 07:30 Pm Uk / Oct-26-2025 01:30 Pm Mdt / Oct-26-2025 03:30 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Detroit Pistons vs Boston Celtics 19:30 (oct-26-2025 07:30 Pm Uk / Oct-26-2025 01:30 Pm Mdt / Oct-26-2025 03:30 Pm Edt)
-https://windnew.newkso.ru/wind/premium466/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Miami Heat vs New York Knicks 22:00 (oct-26-2025 10:00 Pm Uk / Oct-26-2025 04:00 Pm Mdt / Oct-26-2025 06:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium765/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Miami Heat vs New York Knicks 22:00 (oct-26-2025 10:00 Pm Uk / Oct-26-2025 04:00 Pm Mdt / Oct-26-2025 06:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium905/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Sacramento Kings vs Los Angeles Lakers 01:00 (oct-26-2025 01:00 Am Uk / Oct-25-2025 06:00 Pm Mdt / Oct-25-2025 08:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium755/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Sacramento Kings vs Los Angeles Lakers 01:00 (oct-26-2025 01:00 Am Uk / Oct-25-2025 06:00 Pm Mdt / Oct-25-2025 08:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium112/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: San Antonio Spurs vs Brooklyn Nets 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium763/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: San Antonio Spurs vs Brooklyn Nets 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium465/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: San Antonio Spurs vs Brooklyn Nets 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Washington Wizards vs Charlotte Hornets 22:00 (oct-26-2025 10:00 Pm Uk / Oct-26-2025 04:00 Pm Mdt / Oct-26-2025 06:00 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium778/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Poland Plk: Anwil Wroclawek vs Wilki Morskie Szczeci 11:30 (oct-26-2025 11:30 Am Uk / Oct-26-2025 05:30 Am Mdt / Oct-26-2025 07:30 Am Edt)
-https://windnew.newkso.ru/wind/premium47/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Polish Basketball League: Zielona Gora vs Dabrowa Gornicza 16:30 (oct-26-2025 04:30 Pm Uk / Oct-26-2025 10:30 Am Mdt / Oct-26-2025 12:30 Pm Edt)
-https://windnew.newkso.ru/wind/premium50/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Portugal Liga Feminina Women: Sporting Cp vs Gdessa Barreiro 11:30 (oct-26-2025 11:30 Am Uk / Oct-26-2025 05:30 Am Mdt / Oct-26-2025 07:30 Am Edt)
-https://ddy6new.newkso.ru/ddy6/premium716/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Süper Ligi: Fenerbahce vs Turk Telekom 10:00 (oct-26-2025 10:00 Am Uk / Oct-26-2025 04:00 Am Mdt / Oct-26-2025 06:00 Am Edt)
-https://zekonew.newkso.ru/zeko/premium142/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Süper Ligi: Trabzonspor vs Anadolu Efes 12:30 (oct-26-2025 12:30 Pm Uk / Oct-26-2025 06:30 Am Mdt / Oct-26-2025 08:30 Am Edt)
-https://windnew.newkso.ru/wind/premium431/mono.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Süper Ligi: Trabzonspor vs Anadolu Efes 12:30 (oct-26-2025 12:30 Pm Uk / Oct-26-2025 06:30 Am Mdt / Oct-26-2025 08:30 Am Edt)
-https://dokko1new.newkso.ru/dokko1/premium630/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Colorado Avalanche vs New Jersey Devils 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium663/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Colorado Avalanche vs New Jersey Devils 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium923/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Colorado Avalanche vs New Jersey Devils 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium406/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Colorado Avalanche vs New Jersey Devils 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="DaddyLive - Diamond Baseball",MLB: Toronto Blue Jays vs Los Angeles Dodgers 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
 https://windnew.newkso.ru/wind/premium407/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Colorado Avalanche vs New Jersey Devils 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium408/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Colorado Avalanche vs New Jersey Devils 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Colorado Avalanche vs New Jersey Devils 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="DaddyLive - Diamond Baseball",MLB: Toronto Blue Jays vs Los Angeles Dodgers 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
+https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="DaddyLive - Diamond Baseball",MLB: Toronto Blue Jays vs Los Angeles Dodgers 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
 https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Edmonton Oilers vs Vancouver Canucks 02:00 (oct-26-2025 02:00 Am Uk / Oct-25-2025 08:00 Pm Mdt / Oct-25-2025 10:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium409/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Edmonton Oilers vs Vancouver Canucks 02:00 (oct-26-2025 02:00 Am Uk / Oct-25-2025 08:00 Pm Mdt / Oct-25-2025 10:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium408/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Edmonton Oilers vs Vancouver Canucks 02:00 (oct-26-2025 02:00 Am Uk / Oct-25-2025 08:00 Pm Mdt / Oct-25-2025 10:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium411/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Edmonton Oilers vs Vancouver Canucks 02:00 (oct-26-2025 02:00 Am Uk / Oct-25-2025 08:00 Pm Mdt / Oct-25-2025 10:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium406/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Edmonton Oilers vs Vancouver Canucks 02:00 (oct-26-2025 02:00 Am Uk / Oct-25-2025 08:00 Pm Mdt / Oct-25-2025 10:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium407/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Los Angeles Kings vs Chicago Blackhawks 23:00 (oct-26-2025 11:00 Pm Uk / Oct-26-2025 05:00 Pm Mdt / Oct-26-2025 07:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: New York Rangers vs Calgary Flames 00:00 (oct-26-2025 12:00 Am Uk / Oct-25-2025 05:00 Pm Mdt / Oct-25-2025 07:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium451/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: New York Rangers vs Calgary Flames 00:00 (oct-26-2025 12:00 Am Uk / Oct-25-2025 05:00 Pm Mdt / Oct-25-2025 07:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium407/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: New York Rangers vs Calgary Flames 00:00 (oct-26-2025 12:00 Am Uk / Oct-25-2025 05:00 Pm Mdt / Oct-25-2025 07:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium809/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: New York Rangers vs Calgary Flames 00:00 (oct-26-2025 12:00 Am Uk / Oct-25-2025 05:00 Pm Mdt / Oct-25-2025 07:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium82/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: New York Rangers vs Calgary Flames 00:00 (oct-26-2025 12:00 Am Uk / Oct-25-2025 05:00 Pm Mdt / Oct-25-2025 07:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: San Jose Sharks vs Minnesota Wild 22:00 (oct-26-2025 10:00 Pm Uk / Oct-26-2025 04:00 Pm Mdt / Oct-26-2025 06:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium755/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Utah Mammoth vs Winnipeg Jets 22:00 (oct-26-2025 10:00 Pm Uk / Oct-26-2025 04:00 Pm Mdt / Oct-26-2025 06:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Vegas Golden Knights vs Tampa Bay Lightning 21:00 (oct-26-2025 09:00 Pm Uk / Oct-26-2025 03:00 Pm Mdt / Oct-26-2025 05:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium411/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Vegas Golden Knights vs Tampa Bay Lightning 21:00 (oct-26-2025 09:00 Pm Uk / Oct-26-2025 03:00 Pm Mdt / Oct-26-2025 05:00 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium833/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Vegas Golden Knights vs Tampa Bay Lightning 21:00 (oct-26-2025 09:00 Pm Uk / Oct-26-2025 03:00 Pm Mdt / Oct-26-2025 05:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium407/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Vegas Golden Knights vs Tampa Bay Lightning 21:00 (oct-26-2025 09:00 Pm Uk / Oct-26-2025 03:00 Pm Mdt / Oct-26-2025 05:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium809/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Vegas Golden Knights vs Tampa Bay Lightning 21:00 (oct-26-2025 09:00 Pm Uk / Oct-26-2025 03:00 Pm Mdt / Oct-26-2025 05:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Vegas Golden Knights vs Tampa Bay Lightning 21:00 (oct-26-2025 09:00 Pm Uk / Oct-26-2025 03:00 Pm Mdt / Oct-26-2025 05:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Vegas Golden Knights vs Tampa Bay Lightning 21:00 (oct-26-2025 09:00 Pm Uk / Oct-26-2025 03:00 Pm Mdt / Oct-26-2025 05:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Vegas Golden Knights vs Tampa Bay Lightning 21:00 (oct-26-2025 09:00 Pm Uk / Oct-26-2025 03:00 Pm Mdt / Oct-26-2025 05:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium148/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Vegas Golden Knights vs Tampa Bay Lightning 21:00 (oct-26-2025 09:00 Pm Uk / Oct-26-2025 03:00 Pm Mdt / Oct-26-2025 05:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium148/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Atlanta Falcons vs Miami Dolphins 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Carolina Panthers vs Buffalo Bills 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium740/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Carolina Panthers vs Buffalo Bills 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Carolina Panthers vs Buffalo Bills 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="DaddyLive - Diamond Baseball",MLB: Toronto Blue Jays vs Los Angeles Dodgers 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium118/mono.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="DaddyLive - Diamond Baseball",MLB: Toronto Blue Jays vs Los Angeles Dodgers 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
+https://ddy6new.newkso.ru/ddy6/premium223/mono.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="DaddyLive - Diamond Baseball",MLB: Toronto Blue Jays vs Los Angeles Dodgers 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
+https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball.png" group-title="DaddyLive - Diamond Baseball",MLB: Toronto Blue Jays vs Los Angeles Dodgers 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
+https://windnew.newkso.ru/wind/premium150/mono.m3u8
+#EXTINF:-1 tvg-id="Golf.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title="DaddyLive - Golf Tee-Off",College Golf East Lake Cup-First Round 19:00 (oct-27-2025 07:00 Pm Uk / Oct-27-2025 01:00 Pm Mdt / Oct-27-2025 03:00 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Bulgaria Nbl: Bc Beroe Sz vs Lokomotiv Plovdiv 1926 17:15 (oct-27-2025 05:15 Pm Uk / Oct-27-2025 11:15 Am Mdt / Oct-27-2025 01:15 Pm Edt)
 https://windnew.newkso.ru/wind/premium473/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Cincinnati Bengals vs New York Jets 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium52/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Cincinnati Bengals vs New York Jets 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium767/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Denver Broncos vs Dallas Cowboys 20:25 (oct-26-2025 08:25 Pm Uk / Oct-26-2025 02:25 Pm Mdt / Oct-26-2025 04:25 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium52/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Denver Broncos vs Dallas Cowboys 20:25 (oct-26-2025 08:25 Pm Uk / Oct-26-2025 02:25 Pm Mdt / Oct-26-2025 04:25 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium767/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Denver Broncos vs Dallas Cowboys 20:25 (oct-26-2025 08:25 Pm Uk / Oct-26-2025 02:25 Pm Mdt / Oct-26-2025 04:25 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Denver Broncos vs Dallas Cowboys 20:25 (oct-26-2025 08:25 Pm Uk / Oct-26-2025 02:25 Pm Mdt / Oct-26-2025 04:25 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium840/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Denver Broncos vs Dallas Cowboys 20:25 (oct-26-2025 08:25 Pm Uk / Oct-26-2025 02:25 Pm Mdt / Oct-26-2025 04:25 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Denver Broncos vs Dallas Cowboys 20:25 (oct-26-2025 08:25 Pm Uk / Oct-26-2025 02:25 Pm Mdt / Oct-26-2025 04:25 Pm Edt)
-https://windnew.newkso.ru/wind/premium456/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Denver Broncos vs Dallas Cowboys 20:25 (oct-26-2025 08:25 Pm Uk / Oct-26-2025 02:25 Pm Mdt / Oct-26-2025 04:25 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium740/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Denver Broncos vs Dallas Cowboys 20:25 (oct-26-2025 08:25 Pm Uk / Oct-26-2025 02:25 Pm Mdt / Oct-26-2025 04:25 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Denver Broncos vs Dallas Cowboys 20:25 (oct-26-2025 08:25 Pm Uk / Oct-26-2025 02:25 Pm Mdt / Oct-26-2025 04:25 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Denver Broncos vs Dallas Cowboys 20:25 (oct-26-2025 08:25 Pm Uk / Oct-26-2025 02:25 Pm Mdt / Oct-26-2025 04:25 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Denver Broncos vs Dallas Cowboys 20:25 (oct-26-2025 08:25 Pm Uk / Oct-26-2025 02:25 Pm Mdt / Oct-26-2025 04:25 Pm Edt)
-https://windnew.newkso.ru/wind/premium61/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Denver Broncos vs Dallas Cowboys 20:25 (oct-26-2025 08:25 Pm Uk / Oct-26-2025 02:25 Pm Mdt / Oct-26-2025 04:25 Pm Edt)
-https://windnew.newkso.ru/wind/premium473/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Houston Texans vs San Francisco 49ers 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium840/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Indianapolis Colts vs Tennessee Titans 20:25 (oct-26-2025 08:25 Pm Uk / Oct-26-2025 02:25 Pm Mdt / Oct-26-2025 04:25 Pm Edt)
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Israeli Women Basketball Premier League: Maccabi Haifa vs Hapoel Beer Sheva Asa 16:00 (oct-27-2025 04:00 Pm Uk / Oct-27-2025 10:00 Am Mdt / Oct-27-2025 12:00 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Dallas Mavericks vs Oklahoma City Thunder 00:30 (oct-27-2025 12:30 Am Uk / Oct-26-2025 06:30 Pm Mdt / Oct-26-2025 08:30 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Detroit Pistons vs Cleveland Cavaliers 23:00 (oct-27-2025 11:00 Pm Uk / Oct-27-2025 05:00 Pm Mdt / Oct-27-2025 07:00 Pm Edt)
 https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: New Orleans Saints vs Tampa Bay Buccaneers 20:05 (oct-26-2025 08:05 Pm Uk / Oct-26-2025 02:05 Pm Mdt / Oct-26-2025 04:05 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium54/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: New Orleans Saints vs Tampa Bay Buccaneers 20:05 (oct-26-2025 08:05 Pm Uk / Oct-26-2025 02:05 Pm Mdt / Oct-26-2025 04:05 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: New Orleans Saints vs Tampa Bay Buccaneers 20:05 (oct-26-2025 08:05 Pm Uk / Oct-26-2025 02:05 Pm Mdt / Oct-26-2025 04:05 Pm Edt)
-https://windnew.newkso.ru/wind/premium82/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: New Orleans Saints vs Tampa Bay Buccaneers 20:05 (oct-26-2025 08:05 Pm Uk / Oct-26-2025 02:05 Pm Mdt / Oct-26-2025 04:05 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Philadelphia Eagles vs New York Giants 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium54/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Philadelphia Eagles vs New York Giants 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Philadelphia Eagles vs New York Giants 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Philadelphia Eagles vs New York Giants 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Philadelphia Eagles vs New York Giants 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium82/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Philadelphia Eagles vs New York Giants 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://windnew.newkso.ru/wind/premium53/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium38/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium839/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://windnew.newkso.ru/wind/premium80/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://windnew.newkso.ru/wind/premium150/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://windnew.newkso.ru/wind/premium61/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Pittsburgh Steelers vs Green Bay Packers 00:20 (oct-26-2025 12:20 Am Uk / Oct-25-2025 05:20 Pm Mdt / Oct-25-2025 07:20 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Redzone 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Redzone 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium449/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Redzone 17:00 (oct-26-2025 05:00 Pm Uk / Oct-26-2025 11:00 Am Mdt / Oct-26-2025 01:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Ferrari Challenge Europe Coppa Shell Final Round 06:50 (oct-26-2025 06:50 Am Uk / Oct-26-2025 12:50 Am Mdt / Oct-26-2025 02:50 Am Edt)
-https://windnew.newkso.ru/wind/premium60/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Ferrari Challenge Europe Coppa Shell Final Round 06:50 (oct-26-2025 06:50 Am Uk / Oct-26-2025 12:50 Am Mdt / Oct-26-2025 02:50 Am Edt)
-https://windnew.newkso.ru/wind/premium274/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Ferrari Challenge Europe Coppa Shell Final Round 07:50 (oct-26-2025 07:50 Am Uk / Oct-26-2025 01:50 Am Mdt / Oct-26-2025 03:50 Am Edt)
-https://windnew.newkso.ru/wind/premium60/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Ferrari Challenge Europe Coppa Shell Final Round 07:50 (oct-26-2025 07:50 Am Uk / Oct-26-2025 01:50 Am Mdt / Oct-26-2025 03:50 Am Edt)
-https://windnew.newkso.ru/wind/premium274/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Ferrari Challenge Europe Trofeo Pirelli Final Round 09:35 (oct-26-2025 09:35 Am Uk / Oct-26-2025 03:35 Am Mdt / Oct-26-2025 05:35 Am Edt)
-https://windnew.newkso.ru/wind/premium60/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Ferrari Challenge Europe Trofeo Pirelli Final Round 09:35 (oct-26-2025 09:35 Am Uk / Oct-26-2025 03:35 Am Mdt / Oct-26-2025 05:35 Am Edt)
-https://windnew.newkso.ru/wind/premium274/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Grand Prix Sunday 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium60/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Grand Prix Sunday 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Grand Prix Sunday 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium274/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Grand Prix Sunday 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium464/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Grand Prix Sunday 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium273/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Grand Prix Sunday 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Grand Prix Sunday 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Grand Prix Sunday 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Grand Prix Sunday 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium260/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Grand Prix Sunday 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Grand Prix Sunday 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium272/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Grand Prix Sunday 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Grand Prix Sunday 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium60/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium51/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium274/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium464/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium273/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium260/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium71/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium272/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium819/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Formula 1: Mexico City Grand Prix - Race 19:00 (oct-26-2025 07:00 Pm Uk / Oct-26-2025 01:00 Pm Mdt / Oct-26-2025 03:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
-https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
-https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
-https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
-https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Detroit Pistons vs Cleveland Cavaliers 23:00 (oct-27-2025 11:00 Pm Uk / Oct-27-2025 05:00 Pm Mdt / Oct-27-2025 07:00 Pm Edt)
 https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
-https://windnew.newkso.ru/wind/premium464/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
-https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
-https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
-https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
-https://windnew.newkso.ru/wind/premium916/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Detroit Pistons vs Cleveland Cavaliers 23:00 (oct-27-2025 11:00 Pm Uk / Oct-27-2025 05:00 Pm Mdt / Oct-27-2025 07:00 Pm Edt)
+https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Detroit Pistons vs Cleveland Cavaliers 23:00 (oct-27-2025 11:00 Pm Uk / Oct-27-2025 05:00 Pm Mdt / Oct-27-2025 07:00 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium412/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Detroit Pistons vs Cleveland Cavaliers 23:00 (oct-27-2025 11:00 Pm Uk / Oct-27-2025 05:00 Pm Mdt / Oct-27-2025 07:00 Pm Edt)
+https://windnew.newkso.ru/wind/premium466/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Detroit Pistons vs Cleveland Cavaliers 23:00 (oct-27-2025 11:00 Pm Uk / Oct-27-2025 05:00 Pm Mdt / Oct-27-2025 07:00 Pm Edt)
 https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
-https://windnew.newkso.ru/wind/premium150/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
-https://zekonew.newkso.ru/zeko/premium272/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
-https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
-https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto2: Malaysian Grand Prix Race 05:00 (oct-26-2025 05:00 Am Uk / Oct-25-2025 11:00 Pm Mdt / Oct-26-2025 01:00 Am Edt)
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Golden State Warriors vs Memphis Grizzlies 02:00 (oct-27-2025 02:00 Am Uk / Oct-26-2025 08:00 Pm Mdt / Oct-26-2025 10:00 Pm Edt)
+https://windnew.newkso.ru/wind/premium753/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Houston Rockets vs Brooklyn Nets 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium763/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Houston Rockets vs Brooklyn Nets 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
+https://dokko1new.newkso.ru/dokko1/premium921/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Los Angeles Lakers vs Portland Trail Blazers 02:30 (oct-27-2025 02:30 Am Uk / Oct-26-2025 08:30 Pm Mdt / Oct-26-2025 10:30 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium411/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Los Angeles Lakers vs Portland Trail Blazers 02:30 (oct-27-2025 02:30 Am Uk / Oct-26-2025 08:30 Pm Mdt / Oct-26-2025 10:30 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Minnesota Timberwolves vs Denver Nuggets 01:30 (oct-27-2025 01:30 Am Uk / Oct-26-2025 07:30 Pm Mdt / Oct-26-2025 09:30 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Minnesota Timberwolves vs Denver Nuggets 01:30 (oct-27-2025 01:30 Am Uk / Oct-26-2025 07:30 Pm Mdt / Oct-26-2025 09:30 Pm Edt)
 https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium464/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium916/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium150/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium272/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Moto3: Malaysian Grand Prix Race 03:00 (oct-26-2025 03:00 Am Uk / Oct-25-2025 09:00 Pm Mdt / Oct-25-2025 11:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://windnew.newkso.ru/wind/premium445/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://windnew.newkso.ru/wind/premium464/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://windnew.newkso.ru/wind/premium916/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://windnew.newkso.ru/wind/premium150/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://zekonew.newkso.ru/zeko/premium272/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://windnew.newkso.ru/wind/premium473/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Race 06:15 (oct-26-2025 06:15 Am Uk / Oct-26-2025 12:15 Am Mdt / Oct-26-2025 02:15 Am Edt)
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://windnew.newkso.ru/wind/premium445/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://windnew.newkso.ru/wind/premium464/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://windnew.newkso.ru/wind/premium916/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://windnew.newkso.ru/wind/premium150/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium272/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://windnew.newkso.ru/wind/premium473/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Motogp: Malaysian Grand Prix Warm Up 02:30 (oct-26-2025 02:30 Am Uk / Oct-25-2025 08:30 Pm Mdt / Oct-25-2025 10:30 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Nascar Cup Series: Xfinity 500 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium53/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Nascar Cup Series: Xfinity 500 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Nascar Cup Series: Xfinity 500 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Nascar Cup Series: Xfinity 500 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://windnew.newkso.ru/wind/premium550/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Nascar Cup Series: Xfinity 500 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Nascar Cup Series: Xfinity 500 18:00 (oct-26-2025 06:00 Pm Uk / Oct-26-2025 12:00 Pm Mdt / Oct-26-2025 02:00 Pm Edt)
-https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Supercars Championship Race 29 | Gold Coast 04:00 (oct-26-2025 04:00 Am Uk / Oct-25-2025 10:00 Pm Mdt / Oct-26-2025 12:00 Am Edt)
-https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Supercars Championship Race 29 | Gold Coast 04:00 (oct-26-2025 04:00 Am Uk / Oct-25-2025 10:00 Pm Mdt / Oct-26-2025 12:00 Am Edt)
-https://dokko1new.newkso.ru/dokko1/premium571/mono.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Motorsport.png" group-title="DaddyLive - Race Circuit",Supercars Championship Race 29 | Gold Coast 04:00 (oct-26-2025 04:00 Am Uk / Oct-25-2025 10:00 Pm Mdt / Oct-26-2025 12:00 Am Edt)
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Minnesota Timberwolves vs Denver Nuggets 01:30 (oct-27-2025 01:30 Am Uk / Oct-26-2025 07:30 Pm Mdt / Oct-26-2025 09:30 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium412/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: New Orleans Pelicans vs Boston Celtics 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
+https://windnew.newkso.ru/wind/premium754/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: New Orleans Pelicans vs Boston Celtics 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
 https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: Philadelphia 76ers vs Orlando Magic 23:00 (oct-27-2025 11:00 Pm Uk / Oct-27-2025 05:00 Pm Mdt / Oct-27-2025 07:00 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium777/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",NBA: San Antonio Spurs vs Toronto Raptors 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium411/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Romania Liga Nationala: Cs Dinamo Bucuresti vs Bc Timisoara 17:00 (oct-27-2025 05:00 Pm Uk / Oct-27-2025 11:00 Am Mdt / Oct-27-2025 01:00 Pm Edt)
+https://nfsnew.newkso.ru/nfs/premium402/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Super League: Hapoel Beer Sheva vs Maccabi Rishon 16:30 (oct-27-2025 04:30 Pm Uk / Oct-27-2025 10:30 Am Mdt / Oct-27-2025 12:30 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball.png" group-title="DaddyLive - Hoops Central",Super League: Hapoel Holon vs Elitzur Maccabi Netanya 18:40 (oct-27-2025 06:40 Pm Uk / Oct-27-2025 12:40 Pm Mdt / Oct-27-2025 02:40 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",Khl: Avangard Omsk vs Metallurg Magnitogorsk 13:30 (oct-27-2025 01:30 Pm Uk / Oct-27-2025 07:30 Am Mdt / Oct-27-2025 09:30 Am Edt)
+https://ddy6new.newkso.ru/ddy6/premium127/mono.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",Khl: Avangard Omsk vs Metallurg Magnitogorsk 13:30 (oct-27-2025 01:30 Pm Uk / Oct-27-2025 07:30 Am Mdt / Oct-27-2025 09:30 Am Edt)
+https://windnew.newkso.ru/wind/premium429/mono.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Boston Bruins vs Ottawa Senators 23:30 (oct-27-2025 11:30 Pm Uk / Oct-27-2025 05:30 Pm Mdt / Oct-27-2025 07:30 Pm Edt)
+https://windnew.newkso.ru/wind/premium550/mono.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Boston Bruins vs Ottawa Senators 23:30 (oct-27-2025 11:30 Pm Uk / Oct-27-2025 05:30 Pm Mdt / Oct-27-2025 07:30 Pm Edt)
+https://nfsnew.newkso.ru/nfs/premium762/mono.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Boston Bruins vs Ottawa Senators 23:30 (oct-27-2025 11:30 Pm Uk / Oct-27-2025 05:30 Pm Mdt / Oct-27-2025 07:30 Pm Edt)
+https://ddy6new.newkso.ru/ddy6/premium809/mono.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Boston Bruins vs Ottawa Senators 23:30 (oct-27-2025 11:30 Pm Uk / Oct-27-2025 05:30 Pm Mdt / Oct-27-2025 07:30 Pm Edt)
+https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: Boston Bruins vs Ottawa Senators 23:30 (oct-27-2025 11:30 Pm Uk / Oct-27-2025 05:30 Pm Mdt / Oct-27-2025 07:30 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: St. Louis Blues vs Pittsburgh Penguins 23:00 (oct-27-2025 11:00 Pm Uk / Oct-27-2025 05:00 Pm Mdt / Oct-27-2025 07:00 Pm Edt)
+https://windnew.newkso.ru/wind/premium451/mono.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: St. Louis Blues vs Pittsburgh Penguins 23:00 (oct-27-2025 11:00 Pm Uk / Oct-27-2025 05:00 Pm Mdt / Oct-27-2025 07:00 Pm Edt)
+https://nfsnew.newkso.ru/nfs/premium922/mono.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: St. Louis Blues vs Pittsburgh Penguins 23:00 (oct-27-2025 11:00 Pm Uk / Oct-27-2025 05:00 Pm Mdt / Oct-27-2025 07:00 Pm Edt)
+https://dokko1new.newkso.ru/dokko1/premium663/mono.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: St. Louis Blues vs Pittsburgh Penguins 23:00 (oct-27-2025 11:00 Pm Uk / Oct-27-2025 05:00 Pm Mdt / Oct-27-2025 07:00 Pm Edt)
+https://windnew.newkso.ru/wind/premium473/mono.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: St. Louis Blues vs Pittsburgh Penguins 23:00 (oct-27-2025 11:00 Pm Uk / Oct-27-2025 05:00 Pm Mdt / Oct-27-2025 07:00 Pm Edt)
+https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="DaddyLive - Ice Hockey",NHL: St. Louis Blues vs Pittsburgh Penguins 23:00 (oct-27-2025 11:00 Pm Uk / Oct-27-2025 05:00 Pm Mdt / Oct-27-2025 07:00 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://windnew.newkso.ru/wind/premium45/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium51/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium38/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://dokko1new.newkso.ru/dokko1/premium840/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium117/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium386/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://windnew.newkso.ru/wind/premium134/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://windnew.newkso.ru/wind/premium82/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://dokko1new.newkso.ru/dokko1/premium798/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="DaddyLive - NFL",NFL: Washington Commanders vs Kansas City Chiefs 00:15 (oct-27-2025 12:15 Am Uk / Oct-26-2025 06:15 Pm Mdt / Oct-26-2025 08:15 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="DaddyLive - Pro Wrestling",WWE Monday Night Raw 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium419/mono.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="DaddyLive - Pro Wrestling",WWE Monday Night Raw 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
+https://zekonew.newkso.ru/zeko/premium412/mono.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="DaddyLive - Pro Wrestling",WWE Monday Night Raw 00:00 (oct-27-2025 12:00 Am Uk / Oct-26-2025 06:00 Pm Mdt / Oct-26-2025 08:00 Pm Edt)
+https://windnew.newkso.ru/wind/premium420/mono.m3u8
