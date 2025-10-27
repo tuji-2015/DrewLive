@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/DrewLive.xml.gz"
+#EXTM3U url-tvg="https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewLive.xml.gz"
 # Generated: 2025-10-26T14:25:52.456657+00:00 UTC
 
 #EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/AUS.png" group-title="DaddyLive - Aussie Rules Football",Afl Women: Carlton Blues w vs Greater Western Sydney w 04:00 (oct-26-2025 04:00 Am Uk / Oct-25-2025 10:00 Pm Mdt / Oct-26-2025 12:00 Am Edt)
