@@ -939,3 +939,17 @@ http://128.230.54.128:5004/auto/v53.1
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1  tvg-name="We TV" tvg-id="WE.tv.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/we-tv-us.png" group-title="AriaPlus - United States",We TV
 http://128.230.54.128:5004/auto/v56.2
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CBS_Logo.png",CBS (WPEC)
+https://fl25.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/nbc_logo_2022_verticalsvg.png",NBC (WVGN)
+https://fl7.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",ABC (WFTS)
+https://fl7.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/1200px-FOX_wordmark-orange_2.svg.png",FOX (WFLX)
+https://fl7.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - United States" tvg-logo="https://shop.cwtv.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cwtenantstack-citadelbucket0907d78c-ma0g5pjr1rvu%2Fcw-logo-1735322808088.webp&w=640&q=75",The CW (WTOG)
+https://fl7.moveonjoy.com/FL_Tampa_CW44/index.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="ici.tele.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ici-tele-ca.png",ICI Tele
+https://tvnow.best/api/stream/burns/burns/livetv.epg/ici.tele.ca.m3u8
+#EXTINF:-1 group-title="AriaPlus - Canada" tvg-id="prise.2.ca" tvg-logo="https://media.starlite.best/prise.2.ca.png",Prise 2
+https://tvnow.best/api/stream/burns/burns/livetv.epg/prise.2.ca.m3u8
