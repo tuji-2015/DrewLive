@@ -6,7 +6,6 @@ import sys
 
 json_urls = [
     "https://magnetic.website/MAD_TITAN_SPORTS/TOOLS/METAL/luc-247.json",
-    "https://magnetic.website/MAD_TITAN_SPORTS/TOOLS/METAL/playlists_json/lucid-lcd.json",
     "https://magnetic.website/MAD_TITAN_SPORTS/TOOLS/METAL/zpenn-247.json"
 ]
 
