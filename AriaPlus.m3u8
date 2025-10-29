@@ -737,7 +737,7 @@ https://a1xs.vip/2000031
 http://185.99.136.50:9981/stream/channelid/944647027?profile=pass
 #EXTINF:-1  tvg-name="ABC (WFTS)" tvg-id="WFTS-DT.us_locals1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/xGAblRV.png" group-title="AriaPlus - United States",ABC (WFTS)
 https://fl.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1  tvg-name="WPLG Miami" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/6/62/WPLG_Local_10_ABC.png/revision/latest?cb=20200209020430" group-title="AriaPlus - United States",WPLG Miami 
+#EXTINF:-1  tvg-name="ABC Miami" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/6/62/WPLG_Local_10_ABC.png/revision/latest?cb=20200209020430" group-title="AriaPlus - United States",ABC Miami 
 http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183385
 #EXTINF:-1  tvg-name="CBS 4 Miami" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/2958/801339-168626/4a47a0db6e60853dedfcfdf08a5ca249.png" group-title="AriaPlus - United States",CBS 4 Miami
 http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183438
@@ -745,7 +745,7 @@ http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183438
 http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183244
 #EXTINF:-1  tvg-name="WSFL 39 Miami" tvg-logo="https://static.wikia.nocookie.net/tv-stations-fanon/images/0/07/KSFL-CW.png/revision/latest?cb=20170606013533" group-title="AriaPlus - United States",WSFL 39 Miami
 http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/34026
-#EXTINF:-1  tvg-name="WSVN 7 Miami"  tvg-logo="https://static.wikia.nocookie.net/tvstations/images/4/48/IMG_3530.png/revision/latest?cb=20250605211505" group-title="AriaPlus - United States",WSVN 7 Miami
+#EXTINF:-1  tvg-name="Fox 7 Miami"  tvg-logo="https://static.wikia.nocookie.net/tvstations/images/4/48/IMG_3530.png/revision/latest?cb=20250605211505" group-title="AriaPlus - United States",Fox 7 Miami
 http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183507
 #EXTINF:-1  tvg-name="Univision 23 Miami" tvg-logo="https://cdn.mos.cms.futurecdn.net/5HXp4mpLomydS67ZV8n2eG.png" group-title="AriaPlus - United States",Univision 23
 http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/181771
@@ -755,9 +755,9 @@ http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183185
 http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183100
 #EXTINF:-1  tvg-name="MyNetworkTV 33 Miami" tvg-logo="https://wlrnexperience.weebly.com/uploads/3/7/1/7/37179649/9748616_orig.jpghttps://static.wikia.nocookie.net/dreamlogos/images/3/3f/WRDX-TV_Logo_2014_Updated.png/revision/latest?cb=20210208235152" group-title="AriaPlus - United States",MyNetworkTV 33 Miami
 http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/182429
-#EXTINF:-1  tvg-name="WLRN-TV Miami (PBS) tvg-logo="https://wlrnexperience.weebly.com/uploads/3/7/1/7/37179649/9748616_orig.jpg" group-title="AriaPlus - United States",WLRN-TV Miami (PBS) 
+#EXTINF:-1  tvg-name=" PBS WLRN-TV Miami tvg-logo="https://wlrnexperience.weebly.com/uploads/3/7/1/7/37179649/9748616_orig.jpg" group-title="AriaPlus - United States",PBS WLRN-TV Miami 
 http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183584
-#EXTINF:-1  tvg-name="WPBT 2 Miami (PBS)" tvg-logo="https://www.seekpng.com/png/detail/467-4673011_wpbt-south-florida-pbs.png" group-title="AriaPlus - United States",WPBT 2 Miami (PBS)
+#EXTINF:-1  tvg-name="PBS South Florida (WPBT)" tvg-logo="https://www.seekpng.com/png/detail/467-4673011_wpbt-south-florida-pbs.png" group-title="AriaPlus - United States",PBS South Florida (WPBT)
 http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/183639
 #EXTINF:-1  tvg-name="ABC East (WABC)" tvg-id="WABC-DT.us_locals1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/gmLofqo.png" group-title="AriaPlus - United States",ABC East (WABC)
 http://108.14.66.42:5004/auto/v7.1
