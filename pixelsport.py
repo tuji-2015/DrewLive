@@ -25,7 +25,9 @@ LEAGUE_INFO = {
     "BOXING": ("PPV.EVENTS.Dummy.us", "http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png", "Boxing"),
 }
 
+
 def fetch_json(url):
+    """Fetch JSON from URL with headers"""
     headers = {
         "User-Agent": VLC_USER_AGENT,
         "Referer": VLC_REFERER,
@@ -37,7 +39,9 @@ def fetch_json(url):
     with urllib.request.urlopen(req, timeout=10) as resp:
         return json.loads(resp.read().decode("utf-8"))
 
+
 def collect_links(obj, prefix=""):
+    """Collect valid stream links from object"""
     links = []
     if not obj:
         return links
@@ -48,16 +52,19 @@ def collect_links(obj, prefix=""):
             links.append(url)
     return links
 
+
 def get_league_info(name):
+    """Return league info tuple: (tvg-id, logo, group name)"""
     for key, (tvid, logo, group) in LEAGUE_INFO.items():
         if key.lower() in name.lower():
             return tvid, logo, group
     return ("Pixelsports.Dummy.us", LIVE_TV_LOGO, "Pixelsports")
 
+
 def build_m3u(events, sliders):
+    """Build the M3U playlist text"""
     lines = ["#EXTM3U"]
 
-    # 1️⃣ Live Sports Events
     for ev in events:
         title = ev.get("match_name", "Unknown Event").strip()
         logo = ev.get("competitors1_logo", LIVE_TV_LOGO)
@@ -77,8 +84,7 @@ def build_m3u(events, sliders):
     for ch in sliders:
         title = ch.get("title", "Live Channel").strip()
         live = ch.get("liveTV", {})
-        logo_path = live.get("TVLogo") or ch.get("image", "")
-        logo = f"{BASE}/{logo_path}" if logo_path and not logo_path.startswith("http") else (logo_path or LIVE_TV_LOGO)
+        logo = LIVE_TV_LOGO  
         links = collect_links(live)
         if not links:
             continue
@@ -91,6 +97,7 @@ def build_m3u(events, sliders):
             lines.append(link)
 
     return "\n".join(lines)
+
 
 def main():
     try:
@@ -107,6 +114,7 @@ def main():
         print(f"[+] Saved: {OUTPUT_FILE} ({len(events)} events + {len(sliders)} live channels)")
     except Exception as e:
         print(f"[!] Error: {e}")
+
 
 if __name__ == "__main__":
     main()
